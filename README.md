@@ -35,7 +35,7 @@ Built with:
 
 ## 🧪 Try It Out
 
-✅ Hosted version: [![Hugging Face]([https://img.shields.io/badge/Launch-RAG%20Chatbot-blue?logo=huggingface)](https://yasirusman--rag-chatbot.hf.space](https://huggingface.co/spaces/YasirUsman/rag-chatbot))
+✅ Hosted version: https://huggingface.co/spaces/YasirUsman/rag-chatbot
 
 ---
 
