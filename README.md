@@ -1,14 +1,3 @@
----
-title: RAG Chatbot
-emoji: 🤖
-colorFrom: purple
-colorTo: green
-sdk: gradio
-sdk_version: 5.38.2
-app_file: app.py
-pinned: true
-license: mit
----
 
 # 🔍 RAG Chatbot – Retrieval-Augmented Generation Chatbot with ChromaDB + HuggingFace + Gradio
 
@@ -46,7 +35,7 @@ Built with:
 
 ## 🧪 Try It Out
 
-✅ Hosted version: [![Hugging Face](https://img.shields.io/badge/Launch-RAG%20Chatbot-blue?logo=huggingface)](https://yasirusman--rag-chatbot.hf.space)
+✅ Hosted version: [![Hugging Face]([https://img.shields.io/badge/Launch-RAG%20Chatbot-blue?logo=huggingface)](https://yasirusman--rag-chatbot.hf.space](https://huggingface.co/spaces/YasirUsman/rag-chatbot))
 
 ---
 
